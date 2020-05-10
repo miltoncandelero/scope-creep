@@ -2,6 +2,7 @@
   "name": "scopecreep",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://miltoncandelero.github.io/scope-creep/",
   "dependencies": {
     "@blueprintjs/core": "^3.26.1",
     "@blueprintjs/icons": "^3.16.0",
